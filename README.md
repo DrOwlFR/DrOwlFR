@@ -4,7 +4,7 @@
 - 👀 I’m interested in sciences (Biology, Chimestry, Medecine and others), and programming (*and a big big fan of the Star Wars franchise*).
 - 🌱 I’m currently learning Javascript and NodeJs
 
-## Competence
+## Competences
 
 ![Editor](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
 
