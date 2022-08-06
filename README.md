@@ -26,7 +26,7 @@
 ## Stats
 
 ![DrOwl's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrOwlFR&show_icons=true&theme=radical)
-![DrOwl's langage stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DrOwlFR&theme=radical)
+![DrOwl's langage stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DrOwlFR&theme=radical&layout=compact)
 
 ## Contact
 
