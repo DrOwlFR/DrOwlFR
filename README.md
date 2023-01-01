@@ -9,8 +9,10 @@
 ![Editor](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
 
 ![Code](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
-![Code](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
-![Code](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a) 
+![Code](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
+![Code](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
+![Code](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
+![Code](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 
 ![Database](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=Database&logoColor=white&color=2bbc8a)
 
