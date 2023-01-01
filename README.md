@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Lucas
 - 👀 I’m interested in sciences (Biology, Chimestry, Medecine and others), and programming (*and a big big fan of the Star Wars franchise*).
-- 🌱 I’m currently learning Javascript and NodeJs
+- 🌱 I’m currently learning Javascript, NodeJs, HTML and CSS.
 
 ## Competences
 
