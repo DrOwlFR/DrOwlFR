@@ -3,6 +3,7 @@
 - 👋 Hi, I’m Lucas
 - 👀 I’m interested in sciences (Biology, Chimestry, Medecine and others), and programming (*and a big big fan of the Star Wars franchise*).
 - 🌱 I’m currently learning Javascript, NodeJs, HTML and CSS.
+  - I mostly work on Discord bots. 
 
 ## Competences
 
@@ -10,7 +11,6 @@
 
 ![Code](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
-![Code](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 
@@ -18,8 +18,8 @@
 
 ## Projects
 
-- **[Céleste](https://github.com/DrOwlFR/Celeste) is a french music Discord bot**
-- **[Amaël](https://github.com/DrOwlFR/Amael) is a french Discord bot for Roleplayers**
+- **[Céleste](https://github.com/DrOwlFR/Celeste) is a french music Discord bot** _(archived)_
+- **[Amaël](https://github.com/DrOwlFR/Amael) is a french Discord bot for Roleplayers** _(archived)_
 
 ## Helping
 
@@ -32,4 +32,4 @@
 
 ## Contact
 
-You can contact me on discord (Grand Maître Hibou#3083) !
+You can contact me on discord (drowl_) !
