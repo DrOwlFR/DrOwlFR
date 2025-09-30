@@ -18,7 +18,7 @@
 
 ## Projects
 
-- **[Céleste](https://github.com/DrOwlFR/Celeste) is a french music Discord bot** _(archived)_
+- **[Céleste](https://github.com/DrOwlFR/Celeste) is a french music Discord bot**
 - **[Amaël](https://github.com/DrOwlFR/Amael) is a french Discord bot for Roleplayers** _(archived)_
 
 ## Helping
